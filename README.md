@@ -9,7 +9,7 @@ Parts used from BitHacks:
 1 LCD Screen <br/>
 We used our own: <br/>
 ESP32s from OPS <br/>
-Jumpire wires and male-to-female connectors from OPS <br/>
+Jumper wires and male-to-female connectors from OPS <br/>
 1 resistor <br/>
 1 USB-A to C <br/>
 We have some parts that we decided not to use that is specified in Parts Checklist under @JJL4 Discord Username <br/>
