@@ -1,5 +1,5 @@
 # BitHacks-Project---Baby-Crib-Monitor
-Parts used from BitHacks:
+Parts used from BitHacks:<br/>
 1 Load Cell <br/>
 1 Load Cell Amplifier <br/>
 1 Sound Impact Sensor <br/>
