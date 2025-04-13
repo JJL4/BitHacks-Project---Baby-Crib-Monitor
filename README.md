@@ -7,11 +7,11 @@ Parts used from BitHacks:<br/>
 1 Speaker <br/>
 1 PIR Sensor <br/>
 1 LCD Screen <br/>
+1 USB-A to C $<br/>
 We used our own: <br/>
-ESP32s from OPS <br/>
-Jumper wires and male-to-female connectors from OPS <br/>
-1 resistor <br/>
-1 USB-A to C <br/>
+ESP32s from OPS $5 <br/>
+Jumper wires and male-to-female connectors from OPS $1 <br/>
+1 resistor $0.05<br/>
 We have some parts that we decided not to use that is specified in Parts Checklist under @JJL4 Discord Username <br/>
 Sources: <br/>
 https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide/all <br/>
